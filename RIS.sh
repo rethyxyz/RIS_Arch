@@ -252,8 +252,6 @@ download_repos() {
     git clone ${ST_REPO[0]} ${ST_REPO[1]}
     git clone ${DWM_BAR_REPO[0]} ${DWM_BAR_REPO[1]}
     git clone ${SCRIPS_REPO[0]} ${SCRIPTS_REPO[1]}
-    git clone https://github.com/rethyxyz/RIS "$HOME/RIS"
-    git clone https://github.com/rethyxyz/futascrap $HOME/futascrap
     git clone ${RB_REPO[0]} ${RB_REPO[1]}
     git clone ${YT2RSS_REPO[0]} ${YT2RSS_REPO[1]}
     #git clone git@rethy.xyz:/srv/git/ba2rc "$HOME/Documents/Repositories/ba2rc"
